@@ -131,7 +131,9 @@ body {
   padding: 10px 20px;
   font-weight: bold;
 }
-
+a.btn btn-lg btn-default {
+  margin:40px;
+}
 
 /*
  * Footer
