@@ -3,6 +3,21 @@
  */
 
 /* Links */
+
+body {
+  background-image: url("RexRowan/background/cupid.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
+
 a,
 a:focus,
 a:hover {
