@@ -93,7 +93,7 @@ body {
   padding-left: 0;
   font-size: 16px;
   font-weight: bold;
-  color: #fff; /* IE8 proofing */
+  color: black; /* IE8 proofing */
   color: rgba(255,255,255,.75);
   border-bottom: 2px solid transparent;
 }
@@ -106,7 +106,7 @@ body {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #fff;
+  color: black;
   border-bottom-color: #fff;
 }
 
@@ -132,7 +132,7 @@ body {
   font-weight: bold;
 }
 a.btn btn-lg btn-default {
-  margin:40px;
+  margin-bottom:40px;
 }
 
 /*
@@ -140,8 +140,8 @@ a.btn btn-lg btn-default {
  */
 
 .mastfoot {
-  color: #999; /* IE8 proofing */
-  color: rgba(255,255,255,.5);
+  color: black; /* IE8 proofing */
+  
 }
 
 
