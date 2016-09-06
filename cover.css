@@ -12,6 +12,26 @@ body {
   background-attachment: fixed;
 }
 
+element.style {
+  right: 0px;
+}
+
+#bg-tag-expanded {
+    position: fixed;
+    top: 39px;
+   
+    width: 189px;
+    color: #fff;
+    background: #1a1a1a;
+    z-index: 9999;
+    padding: 13px;
+}
+
+div {
+    display: block;
+}
+
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
